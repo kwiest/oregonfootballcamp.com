@@ -1,0 +1,88 @@
+html {
+  font-family: Oxygen, sans-serif;
+}
+
+body {
+  width: 720px;
+  margin: 4px;
+}
+
+header nav {
+  margin-bottom: 20px;
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      background-color: rgb(68, 85, 79);
+      width: 172px;
+      float: left;
+      display: inline;
+      list-style-type: none;
+      text-align: center;
+      color: rgb(255, 244, 82);
+      padding: 4px 0;
+      border: 1px solid #000;
+      border-radius: 2px;
+      margin: 2px;
+
+      a {
+        color: rgb(255, 244, 82);
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+nav#camps-list {
+  margin-bottom: 20px;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      background-color: rgb(255, 244, 82);
+      display: inline;
+      float: left;
+      width: 230px;
+      height: 40px;
+      margin-right: 8px;
+      border-radius: 6px;
+      text-align: center;
+      border: 1px solid rgb(68, 85, 79);
+
+      a {
+        font-size: 18px;
+        line-height: 36px;
+        font-weight: bold;
+        color: rgb(68, 85, 79);
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+aside#quick-links {
+  width: 200px;
+  padding: 0 10px;
+  float: right;
+  margin: 4px;
+  background-color: rgb(255, 255, 204);
+  border: 1px solid rgb(255, 204, 0);
+  border-radius: 12px;
+
+  h2 {
+    font-size: 18px;
+  }
+
+  ul {
+    padding-left: 20px;
+
+    li {
+      font-size: 12px;
+    }
+  }
+}
