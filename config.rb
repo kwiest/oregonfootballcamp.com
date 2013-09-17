@@ -70,3 +70,14 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+# Deployment
+require 'initializers/sftp'
+activate :deploy do |deploy|
+  deploy.method   = :sftp
+  deploy.host     = 'ftp.oregonfootballcamp.com'
+  deploy.port     = 1970
+  deploy.user     = ENV['FTP_USER']
+  deploy.password = ENV['FTP_PASSWORD']
+  deploy.path     = '/public_html'
+end
