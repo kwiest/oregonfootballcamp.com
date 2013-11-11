@@ -9,12 +9,14 @@ title: Oregon Football Camp Team Camp
 * __Date:__ June 17-19, 2014
 * __Who can attend?__ All players must be entering grades 8-12 in the fall of
 2014.
-* __Cost:__ TBA
+* __Cost:__
+  * Overnight camper - $310
+  * Day camper - $200
 * __Application:__
-  * Online registration coming soon
-  * Printable application coming soon
+  * [Online registration](https://campregistrationsystems.com/oregon-football/2014-individual-camp)
+  * [Printable application](/docs/2014-individual-camp-application.pdf)
 * __Balance-due:__
-  * Balance-due form coming soon
+  * [Balance due form](/docs/2014-individual-camp-balance-due.pdf)
 
 ### Room &amp; Board
 

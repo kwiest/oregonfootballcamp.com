@@ -13,8 +13,8 @@ title: Oregon Football Camp Official Website
 * [Full info](/team-camp)
 
 ### Non-Contact Individual Skills Camp
-* __Overnight camper:__ _TBA_
-* __Day camper:__ _TBA_
+* __Overnight camper:__ $310
+* __Day camper:__ $200
 * [Full info](/individual-camp)
 
 Thank you for visiting the official website of the Oregon Football Camp. Please

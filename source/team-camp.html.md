@@ -9,10 +9,10 @@ title: Oregon Football Camp Team Camp
 * __Date:__ June 22-24, 2014
 * __Who can attend?__ Any High School Football Team/Group  
 Players must be entering grades 8-12 in the fall of 2014
-* __Cost:__ TBA
+* __Cost:__ [Group rates](/docs/2014-team-camp-group-rates.pdf)
 * __Application:__
-  * Team reservation form coming soon
-  * Printable application coming soon
+  * [Team reservation form](/docs/2014-team-camp-fax-back-form.pdf)
+  * [Printable application](/docs/2014-team-camp-application.pdf)
 
 ### Room &amp; Board
 
