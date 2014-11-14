@@ -11,10 +11,10 @@
         <meta name="description" content="Official site of the Oregon Football Camp. The premier football camp on the west coast.">
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oxygen:400,300,700" type="text/css">
-        <link rel="stylesheet" href="http://oregonfootballcamp.com/css/normalize.css">
-        <link rel="stylesheet" href="http://oregonfootballcamp.com/css/main.css">
-        <link rel="stylesheet" href="http://oregonfootballcamp.com/css/application.css">
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oxygen:400,300,700" type="text/css">
+        <link rel="stylesheet" href="//oregonfootballcamp.com/css/normalize.css">
+        <link rel="stylesheet" href="//oregonfootballcamp.com/css/main.css">
+        <link rel="stylesheet" href="//oregonfootballcamp.com/css/application.css">
         <script src="js/vendor/modernizr-2.6.1.min.js"></script>
     </head>
     <body>
@@ -53,61 +53,49 @@
         <aside id="quick-links">
           <h2>Kicking &amp; Snapping Camp</h2>
           <ul>
-            <li><strong>Date:</strong> June 14, 2014</li>
+            <li><strong>Date:</strong> coming soon</li>
             <li><strong>Grades:</strong> 9-12</li>
-            <li><strong>Cost:</strong> $130.00</li>
-            <li>
-              <%= link_to 'Online registration',
-                'https://campregistrationsystems.com/oregon-football/2014-kicking-and-snapping-camp' %>
-            </li>
-            <li>
-              <%= link_to 'Printable application',
-                '/docs/2014-kicking-camp-application.pdf' %>
-            </li>
+            <li><strong>Cost:</strong> coming soon</li>
+            <li><strong>Online registration:</strong> coming soon</li>
+            <li><strong>Printable application:</strong> coming soon</li>
           </ul>
 
           <h2>Non-Contact Individual Camp</h2>
           <ul>
-            <li><strong>Date:</strong> June 17-19, 2014</li>
+            <li><strong>Date:</strong> June 16-18, 2015</li>
             <li><strong>Grades:</strong> 8-12</li>
             <li>
               <strong>Cost:</strong>
               <ul>
-                <li>Overnight camper - $310</li>
-                <li>Day camper - $200</li>
+                <li>Overnight camper - $330</li>
+                <li>Day camper - $210</li>
               </ul>
             </li>
             <li>
-              <a href="https://campregistrationsystems.com/oregon-football/2014-individual-camp">
-                Online Registration
-              </a>
+              <%= link_to 'Online registration',
+                'https://campregistrationsystems.com/oregon-football/2015-individual-camp' %>
             </li>
             <li>
-              <a href="/docs/2014-individual-camp-application.pdf">
-                Printable application
-              </a>
+              <%= link_to 'Printable application',
+                '/docs/individual-camp-application.pdf' %>
             </li>
           </ul>
 
           <h2>Full-Contact Team Camp</h2>
           <ul>
-            <li><strong>Date:</strong> June 22-24, 2014</li>
+            <li><strong>Date:</strong> June 21-23, 2015</li>
             <li><strong>Grades:</strong> 8-12</li>
             <li>
               <strong>Cost:</strong>
-              <a href="/docs/2014-team-camp-group-rates.pdf">
-                Group rates
-              </a>
+              <%= link_to 'Group rates', '/docs/team-camp-group-rates.pdf' %>
             </li>
             <li>
-              <a href="/docs/2014-team-camp-fax-back-form.pdf">
-                Reserve your team's spot now!
-              </a>
+              <%= link_to "Reserve your team's spot now!",
+                '/docs/team-camp-fax-back-form.pdf' %>
             </li>
             <li>
-              <a href="/docs/2014-team-camp-application.pdf">
-                Printable application
-              </a>
+              <%= link_to 'Printable application',
+                '/docs/team-camp-application.pdf' %>
             </li>
           </ul>
         </aside>
@@ -116,7 +104,7 @@
 
         <hr />
         <footer>
-          <img src="/images/duck-logo.png" alt="Oregon Ducks" />
+          <%= image_tag 'duck-logo.png' %>
           &copy; Copyright, University of Oregon
         </footer>
 
