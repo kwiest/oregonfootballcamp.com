@@ -16,14 +16,17 @@ GEM
     em-websocket (0.5.0)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.5.3)
+    eventmachine (1.0.3)
     eventmachine (1.0.3-x86-mingw32)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    ffi (1.9.0)
     ffi (1.9.0-x86-mingw32)
     fssm (0.2.10)
     haml (4.0.3)
       tilt
     hike (1.2.3)
+    http_parser.rb (0.5.3)
     http_parser.rb (0.5.3-x86-mingw32)
     i18n (0.6.5)
     kramdown (1.1.0)
@@ -71,6 +74,7 @@ GEM
     net-sftp (2.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (2.7.0)
+    ptools (1.2.2)
     ptools (1.2.2-x86-mingw32)
       win32-file (>= 0.5.4)
     rack (1.5.2)
@@ -83,6 +87,7 @@ GEM
       ffi (>= 0.5.0)
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
+    ruby18_source_location (0.2)
     sass (3.2.10)
     sprockets (2.10.0)
       hike (~> 1.2)
@@ -114,6 +119,7 @@ GEM
       windows-api (>= 0.3.0)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
