@@ -2,7 +2,15 @@
 title: Oregon Football Camp Team Camp
 ---
 
-# Team Camp
+# Individual Non-Contact Skills Camp
+
+---
+
+## Camp Reminders
+* Please see this short list of [camp reminders](/docs/2014-camp-reminders.pdf)
+  to help you prepare for your trip.
+
+---
 
 ### Details
 
@@ -44,4 +52,4 @@ Wednesday (lunch and dinner).
 
 ### Daily Schedule
 
-* Printable daily schedule coming soon
+* [Printable daily schedule](/docs/2014-individual-camp-daily-schedule.pdf)
