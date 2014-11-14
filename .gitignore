@@ -25,5 +25,5 @@ Thumbs.db
 # Ignore bundled gems
 vendor/bundle/**/*
 
-# Ignore FTP initializer
-initializers/sftp.rb
+# Ignore ENV vars
+.env

@@ -72,7 +72,8 @@ configure :build do
 end
 
 # Deployment
-require 'initializers/sftp'
+require 'dotenv'
+Dotenv.load
 activate :deploy do |deploy|
   deploy.method   = :sftp
   deploy.host     = 'ftp.oregonfootballcamp.com'
