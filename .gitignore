@@ -19,6 +19,9 @@
 # Ignore any Photoshop files
 *.psd
 
+# Ignore cache files
+Thumbs.db
+
 # Ignore bundled gems
 vendor/bundle/**/*
 
