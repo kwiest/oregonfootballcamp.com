@@ -43,8 +43,18 @@ playing in a high school game.
 
 ### Daily Schedule
 
-* Printable daily schedule coming soon
+* [Printable daily schedule](/docs/2014-team-camp-daily-schedule.pdf)
 
 ### Teams Confirmed for 2014
 
-* TBA
+* Burlington-Edison HS (Burlington, WA)
+* Helena HS (Helena, MT)
+* Helena HS JV
+* HM Jackson HS (Mill Creek, WA)
+* Juanita HS (Kirkland, WA)
+* Mililani HS (Mililani, HI)
+* Modesto HS (Modesto, CA)
+* Sehome HS (Bellingham, WA)
+* Sehome HS JV
+* Sisters HS (Sisters, OR)
+* St. Bernards Catholic HS (Eureka, CA)
