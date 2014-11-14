@@ -4,27 +4,27 @@ title: Oregon Football Camp Team Camp
 
 # Individual Non-Contact Skills Camp
 
----
+<!------->
 
-## Camp Reminders
-* Please see this short list of [camp reminders](/docs/2014-camp-reminders.pdf)
-  to help you prepare for your trip.
+<!--## Camp Reminders-->
+<!--* Please see this short list of [camp reminders](/docs/2014-camp-reminders.pdf)-->
+  <!--to help you prepare for your trip.-->
 
----
+<!------->
 
 ### Details
 
-* __Date:__ June 17-19, 2014
+* __Date:__ June 16-18, 2015
 * __Who can attend?__ All players must be entering grades 8-12 in the fall of
-2014.
+2015.
 * __Cost:__
-  * Overnight camper - $310
-  * Day camper - $200
+  * Overnight camper - $330
+  * Day camper - $210
 * __Application:__
-  * [Online registration](https://campregistrationsystems.com/oregon-football/2014-individual-camp)
-  * [Printable application](/docs/2014-individual-camp-application.pdf)
+  * [Online registration](https://campregistrationsystems.com/oregon-football/2015-individual-camp)
+  * [Printable application](/docs/individual-camp-application.pdf)
 * __Balance-due:__
-  * [Balance due form](/docs/2014-individual-camp-balance-due.pdf)
+  * [Balance due form](/docs/individual-camp-balance-due.pdf)
 
 ### Room &amp; Board
 
@@ -52,4 +52,5 @@ Wednesday (lunch and dinner).
 
 ### Daily Schedule
 
-* [Printable daily schedule](/docs/2014-individual-camp-daily-schedule.pdf)
+  * _coming soon_
+<!--* [Printable daily schedule](/docs/2014-individual-camp-daily-schedule.pdf)-->

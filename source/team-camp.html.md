@@ -6,13 +6,13 @@ title: Oregon Football Camp Team Camp
 
 ### Details
 
-* __Date:__ June 22-24, 2014
+* __Date:__ June 21-23, 2015
 * __Who can attend?__ Any High School Football Team/Group  
-Players must be entering grades 8-12 in the fall of 2014
-* __Cost:__ [Group rates](/docs/2014-team-camp-group-rates.pdf)
+Players must be entering grades 8-12 in the fall of 2015
+* __Cost:__ [Group rates](/docs/team-camp-group-rates.pdf)
 * __Application:__
-  * [Team reservation form](/docs/2014-team-camp-fax-back-form.pdf)
-  * [Printable application](/docs/2014-team-camp-application.pdf)
+  * [Team reservation form](/docs/team-camp-fax-back-form.pdf)
+  * [Printable application](/docs/team-camp-application.pdf)
 
 ### Room &amp; Board
 
@@ -43,18 +43,9 @@ playing in a high school game.
 
 ### Daily Schedule
 
-* [Printable daily schedule](/docs/2014-team-camp-daily-schedule.pdf)
+  * _coming soon_
+<!--* [Printable daily schedule](/docs/2014-team-camp-daily-schedule.pdf)-->
 
-### Teams Confirmed for 2014
+### Teams Confirmed for 2015
 
-* Burlington-Edison HS (Burlington, WA)
-* Helena HS (Helena, MT)
-* Helena HS JV
-* HM Jackson HS (Mill Creek, WA)
-* Juanita HS (Kirkland, WA)
-* Mililani HS (Mililani, HI)
-* Modesto HS (Modesto, CA)
-* Sehome HS (Bellingham, WA)
-* Sehome HS JV
-* Sisters HS (Sisters, OR)
-* St. Bernards Catholic HS (Eureka, CA)
+  * _coming soon_

@@ -4,7 +4,7 @@ title: Oregon Football Camp Eligibility
 
 # Eligibility
 
-All campers (and teams) must be entering grades 8-12 in the fall of 2014.
+All campers (and teams) must be entering grades 8-12 in the fall of 2015.
 Campers will be matched with and against other campers of the same age.
 
 We can also accept high school graduates, as well as post-graduates with

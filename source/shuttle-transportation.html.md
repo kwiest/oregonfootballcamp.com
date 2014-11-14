@@ -12,11 +12,11 @@ shuttle form.
 
 __Team Camp__
 
-* [Printable shuttle form](/docs/2014-team-camp-shuttle.pdf)
+* [Printable shuttle form](/docs/team-camp-shuttle.pdf)
 
 __Individual Camp__
 
-* [Printable shuttle form](/docs/2014-individual-camp-shuttle.pdf)
+* [Printable shuttle form](/docs/individual-camp-shuttle.pdf)
 
 ## Eugene Airport
 
