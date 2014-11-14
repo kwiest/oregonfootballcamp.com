@@ -19,5 +19,11 @@
 # Ignore any Photoshop files
 *.psd
 
-* Ignore bundled gems
+# Ignore cache files
+Thumbs.db
+
+# Ignore bundled gems
 vendor/bundle/**/*
+
+# Ignore FTP initializer
+initializers/sftp.rb

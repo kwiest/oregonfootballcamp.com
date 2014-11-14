@@ -9,6 +9,6 @@ make our camp successful.
 
 [![Nike](/images/nike-logo.gif)](http://nike.com)
 
-[![Gatorade](/images/gatorade-logo.gif)](http://www.gatorade.com)
+[![Gatorade](/images/gatorade-logo.png)](http://www.gatorade.com)
 
 [![Koke Printing](/images/kokeprinting-logo.jpg)](http://kokeprinting.com)

@@ -24,9 +24,9 @@ is a positive one for all campers.
 ### Defensive Staff
 
 * Ron Aiken - Defensive Line
-* Nick Aliotti - Outside Linebackers &amp; Defensive Coordinator
+* Erik Chinander - Outside Linebackers
 * John Neal - Secondary
-* Don Pellum - Inside Linebackers
+* Don Pellum - Inside Linebackers &amp; Defensive Coordinator
 * Cha'pelle Brown - Graduate Assistant
 * Mike Keldorf - Graduate Assistant
 * Jon Young - Defensive Assistant
@@ -37,7 +37,7 @@ is a positive one for all campers.
 * Kyle Wiest - Camp Director
 * Sean Dillon - Assistant Camp Director
 * Jim Fisher - Assistant Camp Director
-* Callie Evans - Administrative Assistant
+* Taylor Steves - Administrative Assistant
 
 ### Guest Coaches
 
