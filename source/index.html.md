@@ -6,7 +6,7 @@ title: Oregon Football Camp Official Website
 
 
 ### Kicking & Snapping Camp
-* __Day Camper:__ _TBA_
+* __Day Camper:__ $130
 * [Full info](/kicking-camp)
 
 ### Full-Contact Team Camp
