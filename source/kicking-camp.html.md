@@ -6,7 +6,7 @@ title: Oregon Football Camp Kicking and Snapping Camp
 
 ### Details
 
-* __Date:__ _coming soon_
+* __Date:__ June 13, 2015
 * __Who can attend?__ All punters, kickers, and long-snappers entering grades
   9-12.
 * __Cost:__ _coming soon_
