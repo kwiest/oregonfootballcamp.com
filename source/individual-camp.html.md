@@ -52,5 +52,4 @@ Wednesday (lunch and dinner).
 
 ### Daily Schedule
 
-  * _coming soon_
-<!--* [Printable daily schedule](/docs/2014-individual-camp-daily-schedule.pdf)-->
+  * [Printable daily schedule](/docs/2015-individual-camp-daily-schedule.pdf)
