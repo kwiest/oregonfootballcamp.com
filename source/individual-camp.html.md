@@ -6,11 +6,9 @@ title: Oregon Football Camp Team Camp
 
 ---
 
-<div class="alert">
 ## Camp Reminders
 * Please see this short list of [camp reminders](/docs/individual-camp-reminders.pdf)
   to help you prepare for your trip.
-</div>
 
 ### Details
 
