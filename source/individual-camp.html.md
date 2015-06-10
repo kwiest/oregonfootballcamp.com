@@ -4,13 +4,13 @@ title: Oregon Football Camp Team Camp
 
 # Individual Non-Contact Skills Camp
 
-<!------->
+---
 
-<!--## Camp Reminders-->
-<!--* Please see this short list of [camp reminders](/docs/2014-camp-reminders.pdf)-->
-  <!--to help you prepare for your trip.-->
-
-<!------->
+<div class="alert">
+## Camp Reminders
+* Please see this short list of [camp reminders](/docs/individual-camp-reminders.pdf)
+  to help you prepare for your trip.
+</div>
 
 ### Details
 
@@ -51,5 +51,4 @@ Wednesday (lunch and dinner).
 * _Equipment cannot be rented or bought from the University. **No Exceptions.**_
 
 ### Daily Schedule
-
   * [Printable daily schedule](/docs/2015-individual-camp-daily-schedule.pdf)
