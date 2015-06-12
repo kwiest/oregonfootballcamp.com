@@ -37,7 +37,7 @@ playing in a high school game.
   * Shoulder pads
   * Jersey
   * Pants
-  * Knee, thigh, and taibone pads
+  * Knee, thigh, and tailbone pads
   * Cleats
 * _Equipment cannot be rented or bought from the University. **No Exceptions.**_
 
