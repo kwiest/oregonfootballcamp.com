@@ -2,19 +2,19 @@
 title: Oregon Football Camp Official Website
 ---
 
-# 2015 Oregon Football Camp
+# 2016 Oregon Football Camp
 
 
 ### Kicking & Snapping Camp
-* __Day Camper:__ $130
+* __Day Camper:__ _TBA_
 * [Full info](/kicking-camp)
 
 ### Full-Contact Team Camp
 * [Full info](/team-camp)
 
 ### Non-Contact Individual Skills Camp
-* __Overnight camper:__ $330
-* __Day camper:__ $200
+* __Overnight camper:__ $345
+* __Day camper:__ $225
 * [Full info](/individual-camp)
 
 Thank you for visiting the official website of the Oregon Football Camp. Please

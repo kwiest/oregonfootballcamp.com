@@ -6,20 +6,16 @@ title: Oregon Football Camp Team Camp
 
 ---
 
-## Camp Reminders
-* Please see this short list of [camp reminders](/docs/individual-camp-reminders.pdf)
-  to help you prepare for your trip.
-
 ### Details
 
-* __Date:__ June 16-18, 2015
+* __Date:__ June 14-16, 2016
 * __Who can attend?__ All players must be entering grades 8-12 in the fall of
-2015.
+2016.
 * __Cost:__
-  * Overnight camper - $330
-  * Day camper - $210
+  * Overnight camper - $345
+  * Day camper - $225
 * __Application:__
-  * [Online registration](https://campregistrationsystems.com/oregon-football/2015-individual-camp)
+  * [Online registration](https://campregistrationsystems.com/oregon-football/2016-individual-camp)
   * [Printable application](/docs/individual-camp-application.pdf)
 * __Balance-due:__
   * [Balance due form](/docs/individual-camp-balance-due.pdf)
@@ -49,4 +45,4 @@ Wednesday (lunch and dinner).
 * _Equipment cannot be rented or bought from the University. **No Exceptions.**_
 
 ### Daily Schedule
-  * [Printable daily schedule](/docs/2015-individual-camp-daily-schedule.pdf)
+  * [Printable daily schedule](/docs/individual-camp-daily-schedule.pdf)

@@ -6,9 +6,9 @@ title: Oregon Football Camp Team Camp
 
 ### Details
 
-* __Date:__ June 21-23, 2015
+* __Date:__ June 18-21, 2016
 * __Who can attend?__ Any High School Football Team/Group  
-Players must be entering grades 8-12 in the fall of 2015
+Players must be entering grades 8-12 in the fall of 2016
 * __Cost:__ [Group rates](/docs/team-camp-group-rates.pdf)
 * __Application:__
   * [Team reservation form](/docs/team-camp-fax-back-form.pdf)
@@ -43,9 +43,12 @@ playing in a high school game.
 
 ### Daily Schedule
 
-  * _coming soon_
-<!--* [Printable daily schedule](/docs/2014-team-camp-daily-schedule.pdf)-->
+  * [Printable daily schedule](/docs/team-camp-daily-schedule.pdf)
 
-### Teams Confirmed for 2015
+### Teams Confirmed for 2016
 
-  * _coming soon_
+  * Christian Brothers HS (CA)
+  * Eastside Catholic HS (WA)
+  * HAIA (HI)
+  * Mead HS (WA)
+  * Mt. Vernon HS (WA)
