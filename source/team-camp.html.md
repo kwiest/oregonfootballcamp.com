@@ -47,8 +47,10 @@ playing in a high school game.
 
 ### Teams Confirmed for 2016
 
+  * Clackamas HS (OR)
   * Christian Brothers HS (CA)
   * Eastside Catholic HS (WA)
   * HAIA (HI)
   * Mead HS (WA)
   * Mt. Vernon HS (WA)
+  * Skyview HS (WA)
