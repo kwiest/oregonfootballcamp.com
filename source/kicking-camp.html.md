@@ -11,7 +11,7 @@ title: Oregon Football Camp Kicking and Snapping Camp
   9-12.
 * __Cost:__ $130.00
 * __Application:__
-  <!--* [Online registration](https://campregistrationsystems.com/oregon-football/2015-kicking-and-snapping-camp)-->
+  * [Online registration](https://campregistrationsystems.com/oregon-football/2016-kicking-snapping-camp)
   * [Printable application](/docs/kicking-camp-application.pdf)
 
 ### Coaches
