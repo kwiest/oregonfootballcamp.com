@@ -6,12 +6,12 @@ title: Oregon Football Camp Kicking and Snapping Camp
 
 ### Details
 
-* __Date:__ June 13, 2015
+* __Date:__ June 11, 2016
 * __Who can attend?__ All punters, kickers, and long-snappers entering grades
   9-12.
 * __Cost:__ $130.00
 * __Application:__
-  * [Online registration](https://campregistrationsystems.com/oregon-football/2015-kicking-and-snapping-camp)
+  <!--* [Online registration](https://campregistrationsystems.com/oregon-football/2015-kicking-and-snapping-camp)-->
   * [Printable application](/docs/kicking-camp-application.pdf)
 
 ### Coaches
