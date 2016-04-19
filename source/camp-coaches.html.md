@@ -12,32 +12,36 @@ is a positive one for all campers.
 
 ### Offensive Staff
 
+* Matt Lubick - Wide Receivers &amp; Offensive Coordinator
 * Gary Campbell - Running Backs
-* Scott Frost - Quarterbacks &amp; Offensvie Coordinator
-* Steve Greatwood - Offensive Line Coach
-* Matt Lubick - Wide Receivers
+* Steve Greatwood - Offensive Line
 * Tom Osborne - Tight Ends &amp; Special Teams Coordinator
-* Joe Bernardi - Graduate Assistant
-* Nate Costa - Graduate Assistant
-* Matt Noyer - Offensive Assistant
+* David Yost - Quarterbacks
+* Ramsen Golpashin - Graduate Assistant
+* Matt Noyer - Graduate Assistant
+* Matt Butterfield - Football Analyst
+* Tyler Osborne - Football Analyst
 
 ### Defensive Staff
 
+* Brady Hoke - Defensive Coordinator
 * Ron Aiken - Defensive Line
-* Erik Chinander - Outside Linebackers
 * John Neal - Secondary
-* Don Pellum - Inside Linebackers &amp; Defensive Coordinator
-* Cha'pelle Brown - Graduate Assistant
-* Mike Keldorf - Graduate Assistant
-* Jon Young - Defensive Assistant
-* Jimmy Radcliffe - Strength &amp; Conditioning Coach
+* Don Pellum - Linebackers
+* Kwame Agyeman - Graduate Assistant
+* TJ Paganetti - Graduate Assistant
+* Jon Young - Football Analyst
+
+### Strength &amp; Conditioning Staff
+
+* Jimmy Radcliffe - Strength &amp; Conditioning
+* Mark Dillon - Strength &amp; Conditioning
+* Joel Favor - Strength &amp; Conditioning
 
 ### Administrative Staff
 
 * Kyle Wiest - Camp Director
-* Sean Dillon - Assistant Camp Director
-* Jim Fisher - Assistant Camp Director
-* Taylor Steves - Administrative Assistant
+* Cassidy Peterson - Assistant Director
 
 ### Guest Coaches
 
