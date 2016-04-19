@@ -80,5 +80,5 @@ activate :deploy do |deploy|
   deploy.port     = 1970
   deploy.user     = ENV['FTP_USER']
   deploy.password = ENV['FTP_PASSWORD']
-  deploy.path     = '/public_html'
+  deploy.path     = '/home/oregonfo/public_html'
 end
